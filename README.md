@@ -1,16 +1,14 @@
-### Hi there 👋
+### Olá! Meu nome é Richard Dias Aureliano! 👋
 
-<!--
-**Richard-D-Aureliano/Richard-D-Aureliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como Analista estagiário de MIS na Zurich Santander 
+- 🌱 Atualmente estudando Python e Ciência de Dados
+- 💬 Podemos conversar sobre HTML, CSS, Javascript e Python! (Jogos também)
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="https://github.com/Richard-D-Aureliano">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard-D-Aureliano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-D-Aureliano&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫Contacte-me no e-mail: Richardd.aureliano@outlook.com
+- ⚡ Fun fact: Conseguirá me encontrar nos duelos de Duel Links e em Sumonner's Rift!
