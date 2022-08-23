@@ -27,5 +27,15 @@
   <a href="https://www.instagram.com/rickey_ross/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "https://twitter.com/daem0ncross"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
+
+##
+
+<div align="center">
   
-<h6 align="center">⚡ Fun fact: Conseguirá me encontrar nos duelos de Duel Links e em Sumonner's Rift!</h6>
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+##
+  
+<h6 align="center">⚡ Fun fact: Conseguirá me encontrar nos duelos de Duel Links e em Sumonner's Rift no nome de DaemonCross!</h6>
