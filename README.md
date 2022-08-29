@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Richard-D-Aureliano">
-    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img  alt="Richard-D-Aureliano's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Richard-D-Aureliano?cardType=github&theme=dracula" />  </a>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-D-Aureliano&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula">    <img height="150px" alt="Richard-D-Aureliano's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Richard-D-Aureliano?cardType=github&theme=dracula" />  </a>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard-D-Aureliano&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block" align="center"><br>
     <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
