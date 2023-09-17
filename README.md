@@ -3,8 +3,8 @@
 ##
 
 <p align="center"> 🔭 Hoje trabalho como Analista estagiário de MIS na Zurich Santander! </p>
-<p align="center"> 🌱 Atualmente estudando Python e Ciência de Dados! </p>
-<p align="center"> 💬 Podemos conversar sobre HTML, CSS, Javascript e Python! (Jogos também) </p>
+<p align="center"> 🌱 Atualmente estudando Ciência e Análise de Dados com Python e visualização com Power BI! </p>
+<p align="center"> 💬 Podemos conversar sobre Ciência e Análise de Dados com Python e Power BI! (Jogos também) </p>
 
 <div align="center">
   <a href="https://github.com/Richard-D-Aureliano">
