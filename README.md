@@ -2,7 +2,7 @@
 
 ##
 
-<p align="center"> 🔭 Hoje trabalho como Analista estagiário de MIS na Zurich Santander! </p>
+<p align="center"> 🔭 Hoje trabalho como Analista Júnior de MIS na Zurich Santander! </p>
 <p align="center"> 🌱 Atualmente estudando Ciência e Análise de Dados com Python e visualização com Power BI! </p>
 <p align="center"> 💬 Podemos conversar sobre Ciência e Análise de Dados com Python e Power BI! (Jogos também) </p>
 
