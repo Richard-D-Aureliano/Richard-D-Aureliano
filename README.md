@@ -1,4 +1,4 @@
-<h3 align="center"> Olá! Meu nome é <a href="https://www.linkedin.com/in/richard-dias-aureliano-0a2790193/"><i>Richard Dias Aureliano</i></a>! 👋 </h3>
+<h3 align="center"> Olá! Meu nome é <a href="https://www.linkedin.com/in/richard-dias-aurelian/"><i>Richard Dias Aureliano</i></a>! 👋 </h3>
 
 ##
 
